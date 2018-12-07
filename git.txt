@@ -1,6 +1,12 @@
 git clone git@github.com:radgesoft/study.git
 
-
-
 git push origin master
-git push origiin dev
+git push origin dev
+
+git branch dev
+git checkout dev
+
+git checkout master
+git merge dev
+git branch -d dev
+git branch
