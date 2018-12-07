@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//µÝ¹éÇóºÍ 
+//é€’å½’æ±‚å’Œ 
 int f(int n){
 	if (n==1)
 		return 1;
