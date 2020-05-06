@@ -40,15 +40,15 @@ $$
 \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t
 $$
 
-$$
+$$ 
 \sqrt[3]{\frac{(a\times b)^2+c}{d}}\times\alpha\beta\gamma\delta\theta\times\Sigma
-$$
+$$ 
 
-$$
+$$ 
 \sqrt[3]{\frac{a}{b}\times\sum_{i=0}^{100}i^3\times sin(2\delta)\div10-123+456}
-$$
+$$ 
 
-$$
+$$ 
 E=mc^2+a_2+a_1\{\ x \ [y+(2*10)]\ f(x)\} \\
 {n+1 \choose k}={n \choose k}+{n \choose k-1}\\ 
 \sum_{k_0,k_1,\ldots>0 \atop k_0+k_1+\cdots=n}A_{k_0}A_{k_1}\cdots\\
@@ -66,7 +66,7 @@ $$
 $$
 \overbrace{a+b+c+d}^{2.0}\\
 \left(\begin{matrix} &1 &2 &\cdots &4\\&5 &6 &\cdots &8\\&\vdots &\vdots &\ddots &\vdots\\&13 &14 &\cdots &16\end{matrix} \right)
-$$
+$$ 
 
 **源代码**
 
@@ -84,6 +84,7 @@ public class Test1 {
 ### 流程图
 
 ```flow
+
 st=>start: 开始
 e=>end: 结束
 io=>inputoutput: 输入标志
@@ -106,9 +107,11 @@ Note left of 对象A: 对象A的描述(提示)
 Note over 小三,对象B: 我们是朋友
 participant C
 Note right of C: 没人陪我玩
+
 ```
 
 ```mermaid
+
 %% 时序图例子,-> 直线，-->虚线，->>实线箭头
   sequenceDiagram
     participant 张三
@@ -126,6 +129,7 @@ Note right of C: 没人陪我玩
 ```
 
 ```mermaid
+
 %% 语法示例
         gantt
         dateFormat  YYYY-MM-DD
@@ -151,7 +155,9 @@ Note right of C: 没人陪我玩
 ### 注脚
 
 markdown[^1]， GitHub[^2]
+
 [^1]: Markdown 是一种纯文本标记语言
+
 [^2]: GitHub 是一个代码托管平台
 
 与连接的区别  
