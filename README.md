@@ -63,9 +63,6 @@ x \cup y\cap z \setminus a \bigodot c \bigotimes x \mathbb{R}\mathbb{Z}\emptyset
 \uparrow\Uparrow\downarrow\Downarrow\leftarrow\Leftarrow\rightarrow\Rightarrow\\
 $$
 
-$a^b$
-
-$a_b$
 $$
 \overbrace{a+b+c+d}^{2.0}\\
 \left(\begin{matrix} &1 &2 &\cdots &4\\&5 &6 &\cdots &8\\&\vdots &\vdots &\ddots &\vdots\\&13 &14 &\cdots &16\end{matrix} \right)
